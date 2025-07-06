@@ -1,4 +1,4 @@
-![banner](banner.png)
+<div style= width: 125%; height:125%>![banner](banner.png)</div>
 
 I'm a developer and tinkerer with a passion for building tools that help people think better — especially around knowledge management, automation, and clean interfaces. I care about expressive software, good documentation, and minimal abstractions.
 
