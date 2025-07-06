@@ -1,43 +1,21 @@
 ![](banner2.png)
 
-I'm a developer and tinkerer with a passion for building tools that help people think better — especially around knowledge management, automation, and clean interfaces. I care about expressive software, good documentation, and minimal abstractions.
+## About Me
+
+Hey there! I’m Tasha, also known as WolfQuery. A student and hobby programmer who loves exploring the world of code. Most of my projects revolve around game development using **Godot 4**, but I also enjoy tinkering with **Python CLIs** and writing **bash scripts** to automate my workflow.
+
+I’m passionate about Linux and use a **riced Arch Linux setup with i3** as my daily driver—customized for both efficiency and style.
+
+> **Personal Motto:** “C’est la vie.”
 
 ---
 
-## 🔧 Projects
+**Tech Interests:**
+- Game Dev (Godot 4)
+- Python scripting & CLI tools
+- Bash & Linux automation
+- Customizing Linux environments
 
-- 🧠 **[shard-cli](https://github.com/WolfQuery/shard-cli)**  
-  A Zettelkasten-inspired command-line note-taking tool — fast, hackable, and extensible.
-
-- 🌱 Always exploring new ideas in:
-  - Note-taking tools
-  - CLI utilities
-  - Game dev
-
----
-
-## 🛠 Tech I Use
-
-- Languages: `Python`, `Bash`, `Rust` (learning), `GDScript`
-- Tools: `Git`, `Nano`, `Lazygit`, `Flit`, `Godot`
-- Platforms: `Linux (Arch)`, `Codeberg`, `GitHub`
-
----
-
-## 🔍 Currently Working On
-
-- Improving **shard-cli**
-- Publishing and automating releases across PyPI and AUR
-- Clean tooling for personal knowledge management
-
----
-
-## 📫 Get in Touch
-
-- 📬 Email: `foxtailoromis@gmail.com`
-- 🐧 AUR: [WolfQuery](https://aur.archlinux.org/account/WolfQuery)
-- 🌐 Codeberg: [`@WolfQuery`](https://codeberg.org/WolfQuery)
-
----
+Feel free to reach out or check out my projects!
 
 _Thanks for stopping by! ✨_
