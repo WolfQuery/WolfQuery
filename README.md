@@ -1,21 +1,51 @@
-![](banner2.png)
+<div align="center">
+  <img height="375" src="https://github.com/WolfQuery/WolfQuery/raw/main/banner2.png"  />
+</div>
 
-## About Me
+###
 
-Hey there! I’m Tasha, also known as WolfQuery. A student and hobby programmer who loves exploring the world of code. Most of my projects revolve around game development using **Godot 4**, but I also enjoy tinkering with **Python CLIs** and writing **bash scripts** to automate my workflow.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=WolfQuery.WolfQuery&"  />
+</div>
 
-I’m passionate about Linux and use a **riced Arch Linux setup with i3** as my daily driver—customized for both efficiency and style.
+###
 
-> **Personal Motto:** “C’est la vie.”
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
----
+###
 
-**Tech Interests:**
-- Game Dev (Godot 4)
-- Python scripting & CLI tools
-- Bash & Linux automation
-- Customizing Linux environments
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+</div>
 
-Feel free to reach out or check out my projects!
+###
 
-_Thanks for stopping by! ✨_
+<p align="left">## About me<br>Hey there! I’m Tasha, also known as WolfQuery. A student and hobby programmer who loves exploring the world of code. Most of my projects revolve around game development using **Godot 4**, but I also enjoy tinkering with **Python CLIs** and writing **bash scripts** to automate my workflow.<br><br>I’m passionate about Linux and use a [**Arch Linux setup with i3**](https://github.com/WolfQuery/arch-i3-dots) as my daily driver—customized for both efficiency and style.<br><br>> **Personal Motto:** “C’est la vie.”</p>
+
+###
+
+<p align="left">I also have a personal [blog](https://tashas-grimoire.vercel.app/)</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WolfQuery&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WolfQuery&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/WolfQuery/WolfQuery/output/snake.svg" alt="Snake animation" />
+
+###
