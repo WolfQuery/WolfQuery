@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I also have a personal [blog](https://tashas-grimoire.vercel.app/)</p>
+<p align="left">I also have a personal <a href=https://tashas-grimoire.vercel.app/> blog </a>.</p>
 
 ###
 
