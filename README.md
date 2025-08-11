@@ -31,7 +31,9 @@
 
 ###
 
-<p align="left"><h2>## About me</h2> <br>Hey there! I’m Tasha, also known as WolfQuery. A student and hobby programmer who loves exploring the world of code. Most of my projects revolve around game development using **Godot 4**, but I also enjoy tinkering with **Python CLIs** and writing **bash scripts** to automate my workflow.<br><br>I’m passionate about Linux and use a <em>[Arch Linux setup with i3]</em>(https://github.com/WolfQuery/arch-i3-dots) as my daily driver—customized for both efficiency and style.<br><br>> **Personal Motto:** “C’est la vie.”</p>
+<p align="left"><h2>## About me</h2> <br>Hey there! I’m Tasha, also known as WolfQuery. A student and hobby programmer who loves exploring the world of code. Most of my projects revolve around game development using <em> Godot 4 </em>, but I also enjoy tinkering with <em>Python CLIs</em> and writing <em>bash scripts</em> to automate my workflow.<br><br>I’m passionate about Linux and use a <em> <a href=https://github.com/WolfQuery/arch-i3-dots> Arch Linux setup with i3 </a> </em> as my daily driver—customized for both efficiency and style.<br><be>
+  
+  > **Personal Motto:** “C’est la vie.”</p>
 
 ###
 
